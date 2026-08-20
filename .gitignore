@@ -472,7 +472,7 @@ data/
 models/
 
 # Ignoruj pojedyncze pliki danych i modeli (na wypadek gdyby trafiły poza foldery)
-*.csv
+/*.csv
 *.parquet
 *.xlsx
 *.pkl
