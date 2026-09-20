@@ -473,6 +473,9 @@ models/
 
 # Ignoruj pojedyncze pliki danych i modeli (na wypadek gdyby trafiły poza foldery)
 /*.csv
+
+# Odtwarzalne eksporty notebooka bdot10k_wskazniki.ipynb (w tym duży zbiór lokali).
+/dane/pochodne_bdot10k/
 *.parquet
 *.xlsx
 *.pkl
