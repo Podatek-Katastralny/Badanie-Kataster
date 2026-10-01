@@ -482,3 +482,4 @@ models/
 *.joblib
 *.h5
 *.pt
+/dane/BDOT10k
